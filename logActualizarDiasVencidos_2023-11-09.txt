@@ -1,0 +1,22 @@
+----------2023-11-09 00:01:07.823----------
+
+-- INICIO DEL PROCESO: 'Actualizar los dias y saldos vencidos' --
+<<Consultando clientes activos...
+<<Consultando movimientos (cabecera) PENDIENTES del cliente ID2026
+<<Calculando dias de vencimiento para el movimiento cabecera con ID 3187
+<<Actualizando dias vencidos...
+>>Dias vencidos actualizados
+<<Calculando dias de vencimiento para el movimiento cabecera con ID 5583
+Cambios no efectuados en la base de datos
+FINAL DEL PROCESO
+----------2023-11-09 12:30:39.219----------
+
+-- INICIO DEL PROCESO: 'Actualizar los dias y saldos vencidos' --
+<<Consultando clientes activos...
+<<Consultando movimientos (cabecera) PENDIENTES del cliente ID2026
+<<Calculando dias de vencimiento para el movimiento cabecera con ID 3187
+<<Actualizando dias vencidos...
+>>Dias vencidos actualizados
+<<Calculando dias de vencimiento para el movimiento cabecera con ID 5583
+Cambios no efectuados en la base de datos
+FINAL DEL PROCESO
